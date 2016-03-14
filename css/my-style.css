@@ -1,0 +1,175 @@
+#header-top-second {
+	float:right !important;
+}
+.dropdown-menu.dropdown-menu-custom {
+	padding: 5px !important;
+	min-width:90px;
+}
+.dropdown-menu.dropdown-menu-custom li a {
+	font-size:12px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.dark-translucent-bg:after {
+	background-color:rgba(0, 0, 0, 0.6) !important;
+}
+@media (min-width: 767px) and (max-width: 801px) {
+  .navbar-left {
+    margin-left:28% !important;
+    float:inherit;
+  }
+}
+.under-text {
+	margin:0 auto !important;
+	margin-top: 15px !important;
+}
+.under-text p {
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+.under-text div {
+	display:inline-block;
+	padding:6px;
+	border:1px solid #ffffff;
+	max-width:200px;
+	margin-right:6px;
+	margin-bottom:12px;
+	font-size:13px;
+}
+@media (max-width: 481px) {
+  .under-text {
+    display:none;
+  }
+}
+@media (min-width: 1023px) {
+  .margin-adjust2 {
+    margin-top:-65px !important;
+  }
+}
+@media (min-width: 1023px) {
+  .margin-adjust3 {
+    margin-top:-25px !important;
+  }
+}
+.margin-adjust {
+	margin-top:-20px !important;
+}
+.body h2 {
+	line-height:1 !important;
+}
+.product-image {
+	width:100%;
+}
+.product-image img {
+	display:block;
+	margin:0 auto;
+}
+.clients .client a {
+	width:100%;
+}
+.clients .client a img {
+	display:block;
+	margin:0 auto;
+}
+.logo-footer img {
+	max-height:35px;
+}
+.in-product-image {
+	width:100%;
+	margin-bottom:30px;
+}
+.in-product-image img {
+	width:100%;
+}
+.list-item-products li{
+	list-style-type:none;
+	padding-bottom:6px;
+	position:relative;
+	padding-left:40px;
+}
+.list-item-products i{
+	position:absolute;
+	top:0px;
+	left:0px;
+	font-size:17px;
+}
+.list-item-products li .icon-list-item-products{
+	list-style-type:none;
+}
+.dewert-banner {
+	float:left;
+	width:50%;
+}
+.okin-banner {
+	float:right;
+	width:50%;
+	text-align:right;
+}
+.okin-banner .separator-2 {
+	text-align:right !important;
+	display:inline-block;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding-bottom:5px;
+}
+.dewert-banner .separator-2 {
+	text-align:left !important;
+	display:inline-block;
+	margin-bottom:0px;
+	margin-top:0px;
+	padding-bottom:5px;
+}
+.curved-sides img{
+	border-radius:10px;
+}
+.top-line {
+	border-top:1px solid #dbdbdb;
+}
+.logo img:hover {
+	opacity:inherit !important;
+}
+.image-box-body {
+	min-height:290px;
+}
+.item-heading {
+	width:100%;
+	text-align:center;
+	background-color:#FE0000;
+	color:#ffffff;
+}
+.item-heading2 {
+	width:100%;
+	text-align:center;
+	background-color:#878787;
+	color:#ffffff;
+}
+.nto-products {
+	margin-bottom:45px;
+}
+.nto-products img{
+	width:100%;
+}
+.blocan-desc ul {
+	margin-bottom:40px;
+}
+.rose-products ul li {
+	margin-bottom:10px;
+}
+.pl-30 {
+	padding-left:30px;
+}
+.result_hover {
+	fill: #FA0004;
+	-webkit-transition: all 0.6s;
+	-moz-transition: all 0.6s;
+	transition: all 0.6s;
+}
+.visibility-nothidden {
+	visibility:visible !important;
+}
+.visibility-hidden {
+	visibility:hidden;
+}
